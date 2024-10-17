@@ -25,6 +25,21 @@ To run this application, you'll need to have Python and the required libraries i
 1. **Clone the repository:**
 
    ```bash
-   git clone 
-   cd <repository-directory>
+   git clone https://github.com/Manoranjan31/Hallucination-detection-in-Summaries.git
+
+2. **Install the required Dependencies:**
+   
+   ```bash
+   python -m pip install -r requirements.txt
+   
+3. **Run Streamlit**
+
+   ```bash
+   streamlit run app.py
+
+4. **View in Browser**
+
+   View the app in ```bash localhost:8051
+   
+   
 
