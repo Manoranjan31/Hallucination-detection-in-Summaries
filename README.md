@@ -39,7 +39,10 @@ To run this application, you'll need to have Python and the required libraries i
 
 4. **View in Browser**
 
-   View the app in ```bash localhost:8051
+   View the app in
+   
+   ```bash
+   http://localhost:8051
    
    
 
